@@ -5,4 +5,4 @@ This `README.md` file is only for testing. I'm using it to check if
 my Continuous Integration and Continuous Deployment utility is working
 correctly.
 
-The only problem is that I have to commit to test every single thing.
+The only problem is that I have to make commits to test every single thing.
