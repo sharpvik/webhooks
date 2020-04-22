@@ -6,4 +6,4 @@ my Continuous Integration and Continuous Deployment utility is working
 correctly.
 
 The only problem is that I have to make commits to test every single thing.
-And that's why I made this repo.
+And that's why I made this repository.
