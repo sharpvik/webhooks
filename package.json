@@ -1,5 +1,5 @@
 {
   "name": "webhooks",
   "purpose": "test",
-  "deps": []
+  "deps": ["lisn-web-app"]
 }
